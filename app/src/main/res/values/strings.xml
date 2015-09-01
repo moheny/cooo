@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Coacher</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="group_from_event">
+        <item>economic</item>
+        <item>finacial</item>
+        <item>item3</item>
+        <item>item4</item>
+
+    </string-array>
+</resources>
